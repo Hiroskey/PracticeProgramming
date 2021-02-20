@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# git init
+# git status
+
 git status
 git add .
 git commit -m "new commit"
