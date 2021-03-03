@@ -8,7 +8,7 @@ git add .
 git commit -m "new commit"
 git branch
 git remote add origin git@github.com:Hiroskey/PracticeProgramming.git
-git push -u origin master
+git push -u origin main
 
 # git remote rm origin
 # git remote add origin git@github.com:Hiroskey/practice_programming.git
