@@ -11,7 +11,6 @@ int main(){
     int sum=t;
     for(int i=n-1; i>0; i--){
         sum += min(a[i]-a[i-1], t);
-        cout << "sum: " << sum << endl;
     }
     cout << sum << endl;
     return 0;
